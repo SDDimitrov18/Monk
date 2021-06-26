@@ -1,2 +1,2 @@
-# Druid
+# Resto-Druid
 Druid
