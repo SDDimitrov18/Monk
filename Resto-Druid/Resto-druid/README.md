@@ -1,2 +1,0 @@
-# Resto-Druid
-Druid
